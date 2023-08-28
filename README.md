@@ -1,16 +1,14 @@
 # Rocket.Chat
 
-[Rocket.Chat](https://rocket.chat)’s mission is to empower organizations to own their conversations by developing the world’s most flexible and secure open-source communications platform.\
+[Rocket.Chat](https://rocket.chat)’s mission is to empower **organizations** to own their conversations by developing the world’s most flexible and secure open-source communications platform.\\
 
-
-[Rocket.Chat](https://rocket.chat) is a customizable open-source communications platform for organizations with high standards of data protection. It enables real-time conversations between colleagues, with other companies, or with your customers, across devices on the web, desktop, or mobile.\
-
+[Rocket.Chat](https://rocket.chat) is a customizable open-source communications platform for organizations with high standards of data protection. It enables real-time conversations between colleagues, with other companies, or with your customers, across devices on the web, desktop, or mobile.\\
 
 [Rocket.Chat](https://rocket.chat) integrates with multiple conversation channels like website Live Chat, email, Facebook page, Twitter, WhatsApp, Instagram, etc. It shows discussion from various channels, thereby constructing a single view of the customer and helping diminish the time needed to switch between the tools. Mobile app for Rocket.Chat (available for Android and iOS) enables you to browse conversations, reply to messages and collaborate with the team. Using our self-managed offerings, you can deploy Rocket.Chat on your own server, or you can use SaaS Rocket.Chat. We offer support and professional services for our enterprise plan.
 
 ## Product Offerings
 
-Rocket.Chat has four key product offerings:&#x20;
+Rocket.Chat has four key product offerings:
 
 * **Team collaboration** - A single point for secure internal and cross-company collaboration.
 * **Omnichannel customer service** - Engage in seamless interactions with customers regardless of how they connect with you.
@@ -73,12 +71,12 @@ Rocket.Chat offers governance and risk-management capabilities that meet the nee
 
 ### Features
 
-{% content-ref url="use-rocket.chat/rocket.chat-voice-channel/" %}
-[rocket.chat-voice-channel](use-rocket.chat/rocket.chat-voice-channel/)
+{% content-ref url="use-rocket.chat/rocket.chat-voice-channel" %}
+[rocket.chat-voice-channel](use-rocket.chat/rocket.chat-voice-channel)
 {% endcontent-ref %}
 
-{% content-ref url="use-rocket.chat/rocket.chat-conference-call/" %}
-[rocket.chat-conference-call](use-rocket.chat/rocket.chat-conference-call/)
+{% content-ref url="use-rocket.chat/rocket.chat-conference-call" %}
+[rocket.chat-conference-call](use-rocket.chat/rocket.chat-conference-call)
 {% endcontent-ref %}
 
 {% content-ref url="use-rocket.chat/workspace-administration/settings/analytics.md" %}
