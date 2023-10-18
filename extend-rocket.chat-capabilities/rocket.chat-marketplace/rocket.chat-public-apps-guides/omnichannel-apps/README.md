@@ -13,12 +13,12 @@ Omnichannel apps give consumers a choice to engage with you on their favorite ch
 **You must have the** [**Omnichannel feature**](https://docs.rocket.chat/guides/administration/settings/omnichannel-admins-guide#enable-omnichannel) **enabled as well as have** [**agents**](https://docs.rocket.chat/guides/omnichannel/agents) **and** [**managers**](https://docs.rocket.chat/guides/omnichannel/managers) **assigned in order to receive and send Omnichannel messages.**
 {% endhint %}
 
-{% content-ref url="sms.md" %}
-[sms.md](sms.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="telegram-app/" %}
-[telegram-app](telegram-app/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="rasa-app/" %}
@@ -33,16 +33,16 @@ Omnichannel apps give consumers a choice to engage with you on their favorite ch
 [dialogflow-app](dialogflow-app/)
 {% endcontent-ref %}
 
-{% content-ref url="twitter-app/" %}
-[twitter-app](twitter-app/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="facebook-app/" %}
 [facebook-app](facebook-app/)
 {% endcontent-ref %}
 
-{% content-ref url="whatsapp/" %}
-[whatsapp](whatsapp/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="instagram-direct/" %}

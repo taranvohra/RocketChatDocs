@@ -10,12 +10,12 @@ Omnichannel Integration between Rocket.Chat and Facebook Messenger. With the Fac
 **You must have the** [**Omnichannel feature**](https://docs.rocket.chat/guides/administration/settings/omnichannel-admins-guide#enable-omnichannel) **enabled as well as have** [**agents**](https://docs.rocket.chat/guides/omnichannel/agents) **and** [**managers**](https://docs.rocket.chat/guides/omnichannel/managers) **assigned in order to receive and send Omnichannel messages.**
 {% endhint %}
 
-{% content-ref url="facebook-app-installation.md" %}
-[facebook-app-installation.md](facebook-app-installation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="facebook-app-configuration/" %}
-[facebook-app-configuration](facebook-app-configuration/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="facebook-app-configuration/facebook-app-authentication.md" %}
@@ -25,4 +25,3 @@ Omnichannel Integration between Rocket.Chat and Facebook Messenger. With the Fac
 {% content-ref url="facebook-app-agents-guide.md" %}
 [facebook-app-agents-guide.md](facebook-app-agents-guide.md)
 {% endcontent-ref %}
-

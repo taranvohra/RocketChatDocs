@@ -51,8 +51,6 @@ AOL Mail
 
 [**Yahoo Mail**](https://help.yahoo.com/kb/generate-manage-third-party-passwords-sln15241.html)
 
-
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../rocket.chat-workspace-administration/broken-reference/" %}
+[broken-reference](../rocket.chat-workspace-administration/broken-reference/)
 {% endcontent-ref %}

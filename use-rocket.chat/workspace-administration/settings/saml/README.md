@@ -6,7 +6,7 @@ description: >-
 
 # SAML
 
-SAML(Security Assertion Markup Language) is an XML-based format and protocol for exchanging authentication and authorization data between parties.&#x20;
+SAML(Security Assertion Markup Language) is an XML-based format and protocol for exchanging authentication and authorization data between parties.
 
 This standard of authentication has significant advantages over logging in using a username/password:
 
@@ -28,6 +28,6 @@ To access this setting, navigate to **Administration** > **Workspace** > **Setti
 [active-directory-federation-services.md](active-directory-federation-services.md)
 {% endcontent-ref %}
 
-{% content-ref url="oracle-cloud.md" %}
-[oracle-cloud.md](oracle-cloud.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

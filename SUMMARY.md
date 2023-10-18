@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Rocket.Chat](README.md)
+* [👨🚀 Rocket.Chat](README.md)
 
 ## Deploy
 

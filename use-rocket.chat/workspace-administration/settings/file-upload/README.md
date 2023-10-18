@@ -4,7 +4,7 @@ description: Configure file upload and storage
 
 # File Upload
 
-Configure file uploads and storage on your workspace.&#x20;
+Configure file uploads and storage on your workspace.
 
 To access the menu on your workspace, navigate to **Administration > Workspace > Settings > File Upload**
 
@@ -37,7 +37,7 @@ Remember always to hit **Save Changes** to apply any changes made.
 
 ## Amazon S3
 
-You can find a more detailed guide on how to set up your Amazon S3 server [here](broken-reference).
+You can find a more detailed guide on how to set up your Amazon S3 server [here](../../../rocket.chat-workspace-administration/settings/file-upload/broken-reference/).
 
 * **Bucket name**: The bucket name you've created on Amazon S3
 * **Acl**(Optional): A _Canned ACL_ configuration (see a complete list [here](http://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html#canned-acl))
@@ -108,17 +108,17 @@ JSON format (if using the new AWS console Interface):
 ]
 ```
 
-**Note**: Replace `*ROCKET_CHAT_DOMAIN*` with the domain of your Rocket.Chat installation, e.g. `https://chat.example.com`.  Setting CORS to `*` posses a security risk because it allows for requests from any host on the Internet.
+**Note**: Replace `*ROCKET_CHAT_DOMAIN*` with the domain of your Rocket.Chat installation, e.g. `https://chat.example.com`. Setting CORS to `*` posses a security risk because it allows for requests from any host on the Internet.
 
 </details>
 
 ## FileSystem
 
-* **System Path**: The local path for where the uploaded files are stored.&#x20;
+* **System Path**: The local path for where the uploaded files are stored.
 
 ## Google Cloud Storage
 
-The settings used when configuring a Google Cloud Storage server. You can find more details [here](broken-reference).
+The settings used when configuring a Google Cloud Storage server. You can find more details [here](../../../rocket.chat-workspace-administration/settings/file-upload/broken-reference/).
 
 * **Google Storage Bucket Name**: The bucket name to which the files should be uploaded.
 *   **Google Storage Access Id**: The access ID (or username) of the service account which has access to your Cloud Storage bucket.

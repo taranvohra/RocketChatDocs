@@ -12,15 +12,14 @@ Using Rocket.Chat and the Rasa Chatbot platform integration, you can set up and 
 **You must have the** [**Omnichannel feature**](https://docs.rocket.chat/guides/administration/settings/omnichannel-admins-guide#enable-omnichannel) **enabled as well as have** [**agents**](https://docs.rocket.chat/guides/omnichannel/agents) **and** [**managers**](https://docs.rocket.chat/guides/omnichannel/managers) **assigned in order to receive and send Omnichannel messages.**
 {% endhint %}
 
-{% content-ref url="rasa-app-installation.md" %}
-[rasa-app-installation.md](rasa-app-installation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="rasa-app-configuration/" %}
-[rasa-app-configuration](rasa-app-configuration/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="rasa-app-configuration/delete-rasa-app.md" %}
 [delete-rasa-app.md](rasa-app-configuration/delete-rasa-app.md)
 {% endcontent-ref %}
-

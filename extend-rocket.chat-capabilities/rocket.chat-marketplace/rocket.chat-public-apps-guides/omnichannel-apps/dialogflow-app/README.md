@@ -15,12 +15,12 @@ Using Rocket.Chat and the Dialogflow Chatbot platform integration, you can set u
 
 Please follow this [guide](https://cloud.google.com/dialogflow/es/docs/quick/setup) to find all required setup steps to start using Dialogflow.
 
-{% content-ref url="dialogflow-app-installation.md" %}
-[dialogflow-app-installation.md](dialogflow-app-installation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="dialogflow-app-configuration/" %}
-[dialogflow-app-configuration](dialogflow-app-configuration/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="dialogflow-app-configuration/bot-user-configuration.md" %}
@@ -31,6 +31,6 @@ Please follow this [guide](https://cloud.google.com/dialogflow/es/docs/quick/set
 [upload-file-to-ongoing-dialogflow-chats.md](dialogflow-app-configuration/upload-file-to-ongoing-dialogflow-chats.md)
 {% endcontent-ref %}
 
-{% content-ref url="dialogflow-app-configuration/delete-dialogflow-app.md" %}
-[delete-dialogflow-app.md](dialogflow-app-configuration/delete-dialogflow-app.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

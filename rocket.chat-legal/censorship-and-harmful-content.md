@@ -66,4 +66,3 @@ All of these features are optional to choose, so you have the total flexibility 
 
 We would love to explain to you our stance in detail or get a chance to comment before you publish your article. Please reach out to [contact@rocket.chat](mailto:contact@rocket.chat) to get a comment from us on the topic in question.
 
-***

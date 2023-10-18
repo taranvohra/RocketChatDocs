@@ -19,25 +19,25 @@ Please find more info on the official rollout page by Instagram Direct [here](ht
 {% endhint %}
 
 {% hint style="danger" %}
-Please note that if you have a country restriction set on Instagram, you cannot receive messages on [Rocket.Chat.](https://rocket.chat/)&#x20;
+Please note that if you have a country restriction set on Instagram, you cannot receive messages on [Rocket.Chat.](https://rocket.chat/)
 {% endhint %}
 
-{% content-ref url="instagram-direct-installation.md" %}
-[instagram-direct-installation.md](instagram-direct-installation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="instagram-direct-configuration/" %}
-[instagram-direct-configuration](instagram-direct-configuration/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="instagram-direct-configuration/instagram-direct-authentication.md" %}
-[instagram-direct-authentication.md](instagram-direct-configuration/instagram-direct-authentication.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="instagram-direct-configuration/delete-instagram-direct.md" %}
 [delete-instagram-direct.md](instagram-direct-configuration/delete-instagram-direct.md)
 {% endcontent-ref %}
 
-{% content-ref url="instagram-direct-agents-guide.md" %}
-[instagram-direct-agents-guide.md](instagram-direct-agents-guide.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
