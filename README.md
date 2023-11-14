@@ -12,14 +12,10 @@ More[^3] text
 
 Finishing the[^4] paragraph
 
-[^1]: World annotation
-
-
+[^1]: World annotation???
 
 [^2]: text annotation
 
-
-
 [^3]: More annotation
 
-[^4]: T H E&#x20;
+[^4]: T H E
