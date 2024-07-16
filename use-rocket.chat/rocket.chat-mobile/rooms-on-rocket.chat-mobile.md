@@ -19,7 +19,7 @@ To create a [**Channel**](../user-guides/rooms/channels/) on Rocket.Chat mobile 
 
 ### Team
 
-To create a [**Team**](../../guides/user-guides/rooms/teams/) on Rocket.Chat mobile app,
+To create a [**Team**](../user-guides/rooms/teams/) on Rocket.Chat mobile app,
 
 * Tap on <img src="../../.gitbook/assets/create icon.png" alt="" data-size="line"> icon on the app bar.
 * Tap **Team.**
@@ -36,7 +36,7 @@ To create a [**Direct Message**](../user-guides/rooms/direct-messages/) on Rocke
 * Tap on <img src="../../.gitbook/assets/create icon.png" alt="" data-size="line"> icon on the app bar.
 * Tap on **Direct Message**.
 * Select/Search the users you want to start a direct message with.
-* Tap **Create** in the top right corner to finalize the creation.&#x20;
+* Tap **Create** in the top right corner to finalize the creation.
 
 ### Discussion
 

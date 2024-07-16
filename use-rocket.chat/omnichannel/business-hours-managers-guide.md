@@ -1,14 +1,14 @@
 # Business Hours
 
 {% hint style="info" %}
-Multiple Business Hours is  [Rocket.Chat Enterprise](../../setup-and-administer-rocket.chat/enterprise-edition-trial/) feature.
+Multiple Business Hours is [Rocket.Chat Enterprise](../../setup-and-configure/enterprise-edition-trial/) feature.
 {% endhint %}
 
 Setting business hours lets you specify the working days and hours of your business. This reflects on the Live Chat widget availability making it easy for agents to be notified and hence receive queries.
 
 The enterprise workspaces can set up multiple business hours according to different time zones and their business needs, while community workspaces can only set up one set of business hours.
 
-To access **Business** **Hours** settings,&#x20;
+To access **Business** **Hours** settings,
 
 * Navigate to **Administration > Omnichannel > Business** **Hours**.
 
@@ -26,7 +26,7 @@ To create a new business hour,
 
 ## View and Edit Omnichannel Business Hours
 
-On the Business Hours page, a list of all the created business hours is seen.&#x20;
+On the Business Hours page, a list of all the created business hours is seen.
 
 To edit a bussiness hour,
 

@@ -39,36 +39,36 @@ On the **Installed** tab of the **Apps** screen,
 
 ### Public Apps
 
-Public Apps are all the apps available on the Rocket.Chat [marketplace](https://www.rocket.chat/marketplace). If you are a third-party publisher/developer, you can also submit an app to the marketplace and Rocket.Chat can approve or reject it.&#x20;
+Public Apps are all the apps available on the Rocket.Chat [marketplace](https://www.rocket.chat/marketplace). If you are a third-party publisher/developer, you can also submit an app to the marketplace and Rocket.Chat can approve or reject it.
 
-To submit an app to the marketplace, the publisher must have a Rocket.Chat [Cloud Account](https://cloud.rocket.chat/login) and register their publisher account. You can find more about it on our [developer documentation. ](https://developer.rocket.chat/apps-engine/app-submission-to-the-marketplace)
+To submit an app to the marketplace, the publisher must have a Rocket.Chat [Cloud Account](https://cloud.rocket.chat/login) and register their publisher account. You can find more about it on our [developer documentation.](https://developer.rocket.chat/apps-engine/app-submission-to-the-marketplace)
 
 {% hint style="info" %}
-You can learn how to install and enable each of them in the [App Guide](rocket.chat-public-apps-guides/).
+You can learn how to install and enable each of them in the [App Guide](rocket.chat-public-apps-guides).
 {% endhint %}
 
 ### Private Apps
 
 A workspace can develop its apps and publish them on the workspace. These are called private apps. They can only work on the workspace that uploaded it.
 
-If you want to develope your private Rocket.Chat app you can follow the [developer guides here](https://developer.rocket.chat/apps-engine/rocket.chat-apps-engine). If you are looking for the information of user roles in marketplace, check [marketplace-roles.md](../../setup-and-administer-rocket.chat/roles-in-rocket.chat/marketplace-roles.md "mention").
+If you want to develope your private Rocket.Chat app you can follow the [developer guides here](https://developer.rocket.chat/apps-engine/rocket.chat-apps-engine). If you are looking for the information of user roles in marketplace, check [marketplace-roles.md](../../setup-and-configure/roles-in-rocket.chat/marketplace-roles.md "mention").
 
 ## App Limitations
 
 ### Community Edition
 
-For community edition (CE), workspaces can install numerous Public apps (apps from the marketplace) but enable only five. And they can enable three Private apps. Once it reaches the limit, you can upgrade to the enterprise edition (EE) for access to enable all apps in the workspace.  Refer to the table below for better understanding.
+For community edition (CE), workspaces can install numerous Public apps (apps from the marketplace) but enable only five. And they can enable three Private apps. Once it reaches the limit, you can upgrade to the enterprise edition (EE) for access to enable all apps in the workspace. Refer to the table below for better understanding.
 
 | Community Edition 6.0 | Public apps | Private apps |
 | --------------------- | ----------- | ------------ |
 | Install               | Unlimited   | Unlimited    |
 | Enable/Use            | 5           | 3            |
 
-If your workspace version is `5.4` or lower, you can use all the enabled public and private apps you already have. However, you can not purchase or enable more apps once the limit is reached.&#x20;
+If your workspace version is `5.4` or lower, you can use all the enabled public and private apps you already have. However, you can not purchase or enable more apps once the limit is reached.
 
 ### Enterprise Edition
 
-For enterprise edition (EE), workspaces can install all Public and Private apps. But, if an enterprise edition (EE) workspace license expires and the workspace has exceded the the **** limit, then marketplace disables all downloaded apps, and the app count returns to zero.
+For enterprise edition (EE), workspaces can install all Public and Private apps. But, if an enterprise edition (EE) workspace license expires and the workspace has exceded the the \*\*\*\* limit, then marketplace disables all downloaded apps, and the app count returns to zero.
 
 ## Enterprise Edition App Offerings
 
@@ -85,4 +85,4 @@ Some apps are part of the **Enterprise Edition** offerings. You don't have to pu
 If you are subscribed to Rocket.Chat's **Enterprise Edition**, you can install and enable any number of paid and free apps available in the marketplace on your workspace.
 {% endhint %}
 
-If you are looking for the manual/user guide of a particular app, check [rocket.chat-public-apps-guides](rocket.chat-public-apps-guides/ "mention") or search for it within the documentation.
+If you are looking for the manual/user guide of a particular app, check [rocket.chat-public-apps-guides](rocket.chat-public-apps-guides "mention") or search for it within the documentation.

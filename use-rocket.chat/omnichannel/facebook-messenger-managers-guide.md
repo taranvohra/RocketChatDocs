@@ -5,10 +5,10 @@
 The Facebook Messager page allows you manage conversations from Facebook Messenger on the pages you have connected.
 
 {% hint style="info" %}
-This integration has known vulnerabilities and has been deprecated for Rocket.Chat 6.0. As a Rocket.Chat [Enterprise user](../../setup-and-administer-rocket.chat/enterprise-edition-trial/) you can make use of the[ Facebook App](../../extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/facebook-app/).
+This integration has known vulnerabilities and has been deprecated for Rocket.Chat 6.0. As a Rocket.Chat [Enterprise user](../../setup-and-configure/enterprise-edition-trial/) you can make use of the[ Facebook App](../../extend-rocket.chat-capabilities/rocket.chat-marketplace/rocket.chat-public-apps-guides/omnichannel-apps/facebook-app/).
 {% endhint %}
 
-To access **Facebook Messenger m**anager's guide,&#x20;
+To access **Facebook Messenger m**anager's guide,
 
 * Navigate to **Administration > Omnichannel > Facebook Messenger**.
 * Select Facebook Messenger and Enable it. You'll be prompted to log in. Be sure to use the credentials that are tied to the page you wish to receive messages from. You'll have to do a standard Facebook OAuth login and grant your Rocket.Chat instance access to your pages.

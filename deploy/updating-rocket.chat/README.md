@@ -14,7 +14,7 @@ Workspace admins should monitor new releases and our release notes [here ](https
 
 ## Updating Rocket.Chat on Docker
 
-Provided your workspace was deployed using [Docker and Docker Compose](../../quick-start/installing-and-updating/rapid-deployment-methods/docker-and-docker-compose/), you can update the `rocketchat` [docker image](../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/available-images.md) and the version of your Rocket.Chat server to the latest or any version following any of these guides.
+Provided your workspace was deployed using [Docker and Docker Compose](../prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/), you can update the `rocketchat` [docker image](../prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/available-images.md) and the version of your Rocket.Chat server to the latest or any version following any of these guides.
 
 {% hint style="success" %}
 Updating the Rocket.Chat image doesn't affect your data, since it exists in the mongo image.
@@ -88,19 +88,19 @@ docker-compose rm rocketchat
 docker-compose up -d rocketchat
 ```
 
-See [available-images.md](../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/available-images.md "mention") for more on rocketchat docker images.
+See [available-images.md](../prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/available-images.md "mention") for more on rocketchat docker images.
 
 ## Updating Rocket.Chat Snap
 
 The Rocket.Chat snap installation puts you on the `latest` track at the time of installation, which means you will always get the latest releases on that track.
 
 {% hint style="info" %}
-It is highly advised to [back up your data](../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/rapid-deployment-methods/snaps/snap-backup-and-restore.md#backup-rocket.chat-snap-data) before upgrading.
+It is highly advised to [back up your data](../prepare-for-your-deployment/rapid-deployment-methods/snaps/snap-backup-and-restore.md#backup-rocket.chat-snap-data) before upgrading.
 {% endhint %}
 
 **Before performing a major version update, it is recommended to check our forum's announcement section**: [https://forums.rocket.chat/c/announcements/10](https://forums.rocket.chat/c/announcements/10) as major releases are usually delayed by a couple of weeks. This happens so that feedback is gotten and minor patches are made before pushing out.
 
-You  can force an update by running:
+You can force an update by running:
 
 ```
 sudo snap refresh rocketchat-server
@@ -126,6 +126,6 @@ sudo snap refresh rocketchat-server --channel=x.x.x/stable
 
 {% embed url="https://docs.rocket.chat/getting-support#mongodb-versions" %}
 
-{% content-ref url="../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/mongodb-mmap-to-wiredtiger-migration.md" %}
-[mongodb-mmap-to-wiredtiger-migration.md](../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/mongodb-mmap-to-wiredtiger-migration.md)
+{% content-ref url="../prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/mongodb-mmap-to-wiredtiger-migration.md" %}
+[mongodb-mmap-to-wiredtiger-migration.md](../prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/mongodb-mmap-to-wiredtiger-migration.md)
 {% endcontent-ref %}

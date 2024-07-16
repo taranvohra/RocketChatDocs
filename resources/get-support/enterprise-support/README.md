@@ -19,8 +19,8 @@ We require the installation to run the Docker image provided by the Rocket.Chat 
 
 This ensures we can provide quick fixes and a more efficient way to reproduce problems leading to the most efficient support flow possible.
 
-{% content-ref url="../../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/" %}
-[docker-containers](../../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/)
+{% content-ref url="../../../deploy/prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/" %}
+[docker-containers](../../../deploy/prepare-for-your-deployment/rapid-deployment-methods/docker-and-docker-compose/docker-containers/)
 {% endcontent-ref %}
 
 ## Rocket.Chat versions
@@ -39,7 +39,7 @@ In case of security-relevant bugs, we might decide to backport patches to older 
 | **5.4 (LTS)**       | <mark style="color:red;">**5.4.4**</mark>                               | **Mar 2023** | **Jun 2023** |
 | 5.3                 | <mark style="color:red;">5.3.5</mark>                                   |     Nov 2022 |     Feb 2023 |
 | 5.2                 | <mark style="color:red;">5.2.1</mark>                                   |     Oct 2022 |     Jan 2023 |
-| 5.1                 | <mark style="color:red;">5.1.4</mark>                                   |     Sep 2022 |    Dec 2022  |
+| 5.1                 | <mark style="color:red;">5.1.4</mark>                                   |     Sep 2022 |     Dec 2022 |
 | 5.0                 | <mark style="color:red;">5.0.7</mark>                                   |    July 2022 |     Oct 2022 |
 | **4.8 (LTS)**       | <mark style="color:red;">**4.8.1**</mark>                               | **May 2022** | **Nov 2022** |
 | 4.7                 | [4.7.4](https://github.com/RocketChat/Rocket.Chat/releases/tag/4.7.4)   |     Apr 2022 |    July 2022 |
@@ -163,7 +163,7 @@ That being said, here's how you can find out if **your** browser version is stil
 
 ## Hardware
 
-The support is limited to installations matching the requirements described in the [Minimum ](../../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/hardware-requirements.md)[Hardware](../../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/hardware-requirements.md) [Requirements](../../../deploy-rocket.chat/prepare-for-your-rocket.chat-deployment/hardware-requirements.md) page.
+The support is limited to installations matching the requirements described in the [Minimum ](../../../deploy/prepare-for-your-deployment/hardware-requirements.md)[Hardware](../../../deploy/prepare-for-your-deployment/hardware-requirements.md) [Requirements](../../../deploy/prepare-for-your-deployment/hardware-requirements.md) page.
 
 ## Monitoring
 

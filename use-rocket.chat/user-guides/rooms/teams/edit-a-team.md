@@ -1,9 +1,9 @@
 # Edit a Team
 
-To edit a [public or private](../../../../guides/user-guides/rooms/teams/) team:
+To edit a [public or private](./) team:
 
-* From the top-right menu, Click **Team Information** icon to view Team information.&#x20;
-* Click **Edit** to edit the Team information.&#x20;
+* From the top-right menu, Click **Team Information** icon to view Team information.
+* Click **Edit** to edit the Team information.
 * Update the Team information.
 * Click **Save.**
 
@@ -47,7 +47,7 @@ Once you delete a team, the associated chat content and configurations will also
 hinThis action can not be undone.
 {% endhint %}
 
-## Archive A Team  <a href="#archive-a-team" id="archive-a-team"></a>
+## Archive A Team <a href="#archive-a-team" id="archive-a-team"></a>
 
 When a team is archived, it is converted to read-only and is no longer open to any new activity. However, the message history is still accessible. A team can only be archived by the team owner.
 

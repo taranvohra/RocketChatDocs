@@ -9,7 +9,7 @@ Use a web browser or Rocket.Chat desktop/mobile application or your choice of [c
 To connect to a Rocket.Chat workspace through a web browser:
 
 * Enter the desired workspace address in the browser's address bar, such as `https://open.rocket.chat`
-* After entering a valid Rocket.Chat workspace address the [registration](broken-reference) page appears. If you have already registered, enter your credentials to log in or click **Register a new account** to become a member of that workspace
+* After entering a valid Rocket.Chat workspace address the [registration](broken-reference/) page appears. If you have already registered, enter your credentials to log in or click **Register a new account** to become a member of that workspace
 
 ### Use the desktop app
 
@@ -32,11 +32,11 @@ To add a new workspace:
 
 To connect to a Rocket.Chat workspace using a mobile client app:
 
-* [Download](../../deploy-rocket.chat/installing-client-apps/#mobile-apps) the app for your mobile operating system
-* Open the app. If this is your first time using the mobile app, the workspace connect screen appears&#x20;
-* Click **Join a workspace**&#x20;
+* [Download](../../deploy/installing-client-apps/#mobile-apps) the app for your mobile operating system
+* Open the app. If this is your first time using the mobile app, the workspace connect screen appears
+* Click **Join a workspace**
 * Enter a valid workspace address
-* &#x20;Click **Connect**
+* Click **Connect**
 * After entering a valid Rocket.Chat workspace address, registration, and login page appear.
 * Enter your credentials to log in or register to become a member of that workspace.
 
@@ -63,7 +63,7 @@ If your workspace has configured OAuth services (i.e., GitHub or Google), use th
 
 ### Choosing a username and display name
 
-After you have successfully registered your account, you can choose your username. Your username is your unique identifier for others to use to direct message or mention you.&#x20;
+After you have successfully registered your account, you can choose your username. Your username is your unique identifier for others to use to direct message or mention you.
 
 {% hint style="info" %}
 Your username is separate from your display name on the workspace.

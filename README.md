@@ -12,7 +12,7 @@ More[^3] text
 
 Finishing the[^4] paragraph
 
-[^1]: World annotation???
+[^1]: World annotation
 
 [^2]: text annotation
 

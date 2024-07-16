@@ -2,15 +2,15 @@
 
 **Lightweight Directory Access Protocol (LDAP)** lets anyone locate data about your server or company. Rocket.Chat lets you connect with your Active Directory application or Identity Management System through **LDAP**. You can leverage advanced settings such as background sync, roles mapping from groups, auto-logout, and advanced user data sync.
 
-To configure **LDAP** authentication,&#x20;
+To configure **LDAP** authentication,
 
 * Go to **Administration** > **Workspace** > **Settings** > **LDAP**
-* Enable **LDAP**, and [add configurations](ldap-connection-setting.md) to connect with your **LDAP** server.&#x20;
+* Enable **LDAP**, and [add configurations](ldap-connection-setting.md) to connect with your **LDAP** server.
 
-[Rocket.Chat](http://rocket.chat) supports a variety of **LDAP** capabilities and associated identity management features. For example, you can import users from an active directory into your workspace.&#x20;
+[Rocket.Chat](http://rocket.chat) supports a variety of **LDAP** capabilities and associated identity management features. For example, you can import users from an active directory into your workspace.
 
 {% hint style="info" %}
-The LDAP features supported by community and enterprise editions are detailed in [Identity Management](../../../../setup-and-administer-rocket.chat/advanced-workspace-management/identity-management-ee-vs-ce.md).
+The LDAP features supported by community and enterprise editions are detailed in [Identity Management](../../../../setup-and-configure/advanced-workspace-management/identity-management-ee-vs-ce.md).
 {% endhint %}
 
 ## LDAP Actions

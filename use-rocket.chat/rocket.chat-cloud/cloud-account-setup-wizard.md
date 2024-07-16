@@ -2,7 +2,7 @@
 
 The Cloud Setup Wizard guides you through registering your server to receive free push notifications.
 
-After entering your [administrative and organization information during the setup of your Rocket.Chat workspace](../../setup-and-administer-rocket.chat/accessing-your-workspace/rocket.chat-setup-wizard.md#setup-wizard), register your server to the Rocket.Chat Cloud or run it as a standalone service.
+After entering your [administrative and organization information during the setup of your Rocket.Chat workspace](../../setup-and-configure/accessing-your-workspace/rocket.chat-setup-wizard.md#setup-wizard), register your server to the Rocket.Chat Cloud or run it as a standalone service.
 
 Connecting your workplace to the cloud gives you access to interact with services like
 
@@ -11,7 +11,7 @@ Connecting your workplace to the cloud gives you access to interact with service
 * OAuth proxy for social network
 * Apps Marketplace
 
-To register your server,&#x20;
+To register your server,
 
 * Connect it to your cloud account. If you already have one- enter the cloud email address. Otherwise, create a [new account](https://docs.rocket.chat/rocket.chat-saas/cloud-account/create-new-cloud-account).
 * You will receive an email to the registered email with a confirmation link. You must verify the security code that matches the one in the email.

@@ -1,9 +1,9 @@
 # Discussions
 
-Rocket.Chat discussions allow you to have a separate conversation about larger topics in a [team](../../../../guides/user-guides/rooms/teams/) or [channel](../channels/). Use discussions to address specific topics and their related conversations. They are displayed under the **Discussions** section of the sidebar. They are identified by  ![](../../../../.gitbook/assets/discussion-icon.png).
+Rocket.Chat discussions allow you to have a separate conversation about larger topics in a [team](../teams/) or [channel](../channels/). Use discussions to address specific topics and their related conversations. They are displayed under the **Discussions** section of the sidebar. They are identified by ![](../../../../.gitbook/assets/discussion-icon.png).
 
 {% hint style="info" %}
-Discussions must belong to a parent [team ](../../../../guides/user-guides/rooms/teams/)or [channel](../channels/).
+Discussions must belong to a parent [team ](../teams/)or [channel](../channels/).
 {% endhint %}
 
 For example, you have an **Engineering-Team** in your workspace and created a channel under that team called **Website-Development-Channel.** Let's break down the conversations about each feature of the website into discussions. Now, you can have a **Website-Landing-Page** discussion where all the conversations about the landing page occur.
