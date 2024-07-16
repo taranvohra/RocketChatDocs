@@ -1,4 +1,4 @@
-# 👨🚀 Rocket.Chat
+# 👨‍🚀 Rocket.Chat
 
 [Rocket.Chat](https://rocket.chat)’s mission is to empower **organizations** to own their conversations by developing the world’s most flexible and secure open-source communications platform.\\
 
@@ -17,7 +17,7 @@ Rocket.Chat has four key product offerings:
 
 ## Security Offerings
 
-With Rocket.Chat, you can safeguard your internal and external communications with the highest standards in data privacy, security, and ownership. Admins can configure their workspace according to their own policies. Our software has been deployed in the most rigorous environments, supporting compliance with GDPR, HIPAA, FINRA, FedRAMP, and more.
+With Rocket.Chat, you can safeguard your internal and external communications with the highest standards in data privacy, security, and ownership. Admins can configure their workspace according to their own policies. Our software has been deployed in the most rigorous environments, supporting compliance with _GDPR_, _HIPAA_, _FINRA_, _FedRAMP_, and more.
 
 ### Rocket.Chat on-premise
 
