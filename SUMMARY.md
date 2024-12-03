@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Annotation](README.md)
-* [👨🚀 👨‍🚀 Rocket.Chat](readme-1.md)
+* [👨‍🚀 👨‍🚀 Rocket.Chat](readme-1.md)
 
 ## Deploy
 

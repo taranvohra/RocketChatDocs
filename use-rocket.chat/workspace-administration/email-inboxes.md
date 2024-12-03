@@ -22,7 +22,7 @@ Enter the following details:
 3. Assign it to a **Department;** it is optional
 4. Configure SMTP server
 5. Toggle switch **Connect with SSL/TLS;** it is optional\
-   **`Note`**`: For outlook accounts, disable the SSL option under SMTP.`
+   &#xNAN;**`Note`**`: For outlook accounts, disable the SSL option under SMTP.`
 6. Configure IMAP server and
 7. Toggle switch **Connect with SSL/TLS** for IMAP\*\*;\*\* it is optional
 8. Hit **Save**
