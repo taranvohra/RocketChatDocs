@@ -7,7 +7,7 @@ _Effective date: February 27th, 2021_
 ## **ROCKET.CHAT MASTER SERVICES AGREEMENT FOR SELF-MANAGED DEPLOYMENTS**
 
 This Master Services Agreement (the "**Agreement**"), is entered as of\
-**\_\_\_** (the “**Effective Date**”),\
+&#xNAN;**\_\_\_** (the “**Effective Date**”),\
 by and between **\_\_\_\_**,\
 whose address is _\*\*\\_**\_**_\*\*\\_;\
 an entity (“**You,**” “**Your**,” or “**Customer**”) and Rocket.Chat Technologies Corp. (“**Rocket.Chat**”). In this Agreement, Customer and Rocket.Chat may be individually referred to as “**party**” and collectively referred to as “_\*parties\\_\*.”
@@ -80,7 +80,7 @@ Customer in turn grants Rocket.Chat a sublicense of said license for the purpose
 
 **6. FEES AND PAYMENT; TAXES.**
 
-**6.1 Fees and Payment.** All Order Forms placed will be considered final upon acceptance by Rocket.Chat. Fees will be due and payable as set forth on the Order Form, which are attached to and made part of this Agreement. Unless otherwise set forth herein, fees shall be at Rocket.Chat’s then-standard rates at the time of invoice or, if applicable, as set forth in the Order Form. If You fail to pay, Rocket.Chat shall be entitled, at its sole discretion, to (i) suspend the provision of the Services until You fulfill Your pending payment obligations; (ii) charge You an interest rate designated by Rocket.Chat at the time of invoice; and/or (iii) terminate this Agreement and all Order Forms. Unless otherwise stated, all payments made under this Agreement shall be in United States dollars. Fees and payments are non-refundable except to the extent expressly described otherwise. All fees due to Rocket.Chat under these Terms are non-cancellable, and the sums paid are non-refundable and non-creditable, except as otherwise expressly provided in these Terms.&#x20;
+**6.1 Fees and Payment.** All Order Forms placed will be considered final upon acceptance by Rocket.Chat. Fees will be due and payable as set forth on the Order Form, which are attached to and made part of this Agreement. Unless otherwise set forth herein, fees shall be at Rocket.Chat’s then-standard rates at the time of invoice or, if applicable, as set forth in the Order Form. If You fail to pay, Rocket.Chat shall be entitled, at its sole discretion, to (i) suspend the provision of the Services until You fulfill Your pending payment obligations; (ii) charge You an interest rate designated by Rocket.Chat at the time of invoice; and/or (iii) terminate this Agreement and all Order Forms. Unless otherwise stated, all payments made under this Agreement shall be in United States dollars. Fees and payments are non-refundable except to the extent expressly described otherwise. All fees due to Rocket.Chat under these Terms are non-cancellable, and the sums paid are non-refundable and non-creditable, except as otherwise expressly provided in these Terms.
 
 **6.2 Taxes.** All fees are exclusive of taxes and You shall pay or reimburse Rocket.Chat for all taxes arising out of transactions contemplated by this Agreement. As reasonably requested, You will provide documentation to Rocket.Chat showing that taxes have been paid to the relevant taxing authority. "Taxes" means any sales, VAT, use, and other taxes (other than taxes on Rocket.Chat’s income), export and import fees, customs duties and similar charges imposed by any government or other authority. You hereby confirm that Rocket.Chat can rely on the name and address that You provide to Rocket.Chat when You agree to the fees or in connection with Your payment method as being the place of supply for sales tax and income tax purposes or as being the place of supply for VAT purposes where You have established Your business.
 
@@ -141,16 +141,12 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, (I) IN NO EVENT WILL ROCKET.C
 \
 **Governing Law.** Any dispute, controversy, or claim arising out of or in connection with these Terms shall be sought settled through negotiations in good faith. This Agreement and any disputes arising out of or related to this Agreement shall be governed by and construed in accordance with applicable law as outlined in Section, without regard to any conflict of law provisions. The terms of the United Nations Convention on Contracts for the Sale of Goods do not apply to these Terms. The Uniform Computer Information Transactions Act (UCITA) will not apply to these Terms regardless of when or where adopted.
 
-**Applicable Law.** All references to Rocket.Chat,’ ‘we,’ or ‘us’ under the Contract, what law will apply in any dispute or lawsuit arising out of or in connection with the Contract, and which courts have jurisdiction over any such dispute or lawsuit, depending on where Customer is domiciled.&#x20;
-
-
+**Applicable Law.** All references to Rocket.Chat,’ ‘we,’ or ‘us’ under the Contract, what law will apply in any dispute or lawsuit arising out of or in connection with the Contract, and which courts have jurisdiction over any such dispute or lawsuit, depending on where Customer is domiciled.
 
 | **Domicile**                      | **Rocket.Chat Contract Entity** | **Governing Law**       | **Venue**                       |
 | --------------------------------- | ------------------------------- | ----------------------- | ------------------------------- |
 | United States and other Countries | Rocketchat Technologies Corp.   | Delaware, United States | Delaware, United States         |
 | Brazil                            | Rocketchat Tecnologia LTDA      | Brazil                  | Porto Alegre, Rio Grande do Sul |
-
-
 
 The Agreement and any disputes arising out of or related hereto will be governed exclusively by the applicable governing law above. The courts located in the applicable venue above will have exclusive jurisdiction to adjudicate any dispute arising out of or relating to the Agreement or its formation, interpretation, or enforcement. Each party hereby consents and submits to the exclusive jurisdiction of such courts.
 
