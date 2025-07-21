@@ -15,7 +15,7 @@ To access the Message Auditing Panel,
 * Navigate to **Administration** > **Audit** > **Messages,**
 
 {% hint style="info" %}
-If you cant find the audit options, don't hesitate to get in touch with your workspace administrator to [assign message auditing permmisions to you](assign-message-auditing-permissions-to-specific-users.md).
+If you cant find the audit options, don't hesitate to get in touch with your workspace administrator to [assign message auditing permmisions to you](a-message-auditing-permissions-to-specific-users.md).
 
 See [**Messaging Auditing Log**](./) to learn more about the auditing log history.
 {% endhint %}
